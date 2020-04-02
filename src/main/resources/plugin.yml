@@ -1,0 +1,25 @@
+name: CrystalClash
+main: me.artish1.CrystalClash.CrystalClash
+author: artish1
+softdepend: [HolographicDisplays]
+version: 2.0
+api-version: 1.13
+description: >
+  The Craziest PvP/Arena/Team/CTF - type game.
+commands:
+  score:
+    description: shows player score.
+  a:
+    description: command to do ALL chat ingame.
+  all:
+    description: command to do ALL chat ingame.
+  crystalclash:
+    description: main command for CrystalClash
+  cc:
+    description: Alias to /crystalclash
+  crystal:
+    description: Alias to /crystalclash
+aliases:
+  cc: crazypvp
+  crystal: crazypvp
+
